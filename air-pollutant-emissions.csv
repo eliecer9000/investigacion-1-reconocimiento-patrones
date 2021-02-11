@@ -1,0 +1,27 @@
+﻿sub_sector,activity,sector,PM10,PM2_5,CO,NOx,SO2,site,file,sheet
+Agriculture/forestry/fishing (combustion),Energy-related activities,Fuel combustion in other sectors,480,450,3300,10500,2500,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Animal housings,Agriculture,Animal housings,460,40,NA,NA,NA,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Aviation (domestic),Energy-related activities,Transport,12,12,1900,2600,170,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Aviation (international),Energy-related activities,Transport,6,6,600,1300,55,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Biomass burning: forest land,Field burning of agricultural residues & biomass burning,Biomass burning: forest land,5000,3700,30100,1300,280,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Biomass burning: grasslands,Field burning of agricultural residues & biomass burning,Biomass burning: grasslands,2000,1300,15600,1400,85,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Commercial/institutional (combustion),Energy-related activities,Fuel combustion in other sectors,160,150,1600,3600,450,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Construction dust (fugitive),Construction dust,Construction dust (fugitive),2100,210,NA,NA,NA,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Field burning of agricultural residues,Field burning of agricultural residues & biomass burning,Field burning of agricultural residues,1500,1400,17100,620,130,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Incineration of quarantine waste,Waste,Incineration of quarantine waste,0,0,0,6,0,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Manufacture of solid fuels & other energy industries (combustion),Energy-related activities,Fuel combustion in energy industries,6,6,170,430,3,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Manufacturing & construct'n (combustion),Energy-related activities,Fuel combustion in manufacturing and construction,8300,7200,53300,23000,12500,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Metal industries (non-combustion),Industrial non-combustion,Metal industries (non-combustion),900,790,42200,2000,6700,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Mineral products (non-combustion),Industrial non-combustion,Mineral products (non-combustion),230,110,0,0,1000,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+On-road vehicles,Energy-related activities,Transport,3000,3000,151300,47800,90,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Open burning of waste,Waste,Open burning of waste,1600,1600,8600,620,100,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Petroleum refining (combustion),Energy-related activities,Fuel combustion in energy industries,15,15,260,2000,5300,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Pipeline transport (combustion),Energy-related activities,Transport,0,0,18,45,0,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Production of chemicals (non-combustion),Industrial non-combustion,Production of chemicals (non-combustion),180,140,15,140,1800,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Public electricity & heat production (combustion),Energy-related activities,Fuel combustion in energy industries,680,530,3300,7300,5300,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Pulp and paper production (non-combustion),Industrial non-combustion,Pulp and paper production (non-combustion),1200,860,0,1400,2900,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Rail,Energy-related activities,Transport,220,210,490,2400,0,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Residential (combustion - home heating),Energy-related activities,Fuel combustion in other sectors,11300,11300,200600,1300,460,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Sealed road dust,Road dust,Sealed road dust,410,220,NA,NA,NA,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Shipping (domestic),Energy-related activities,Transport,830,750,1100,11600,10100,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
+Unsealed road dust,Road dust,Unsealed road dust,5500,520,NA,NA,NA,summary,AR_OA2018_2015_NZ_National_air_emissions_inventory.xlsx,Summary
